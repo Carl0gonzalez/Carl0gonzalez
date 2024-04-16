@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carl0gonzalez
-- 👀 I’m interested in ... IA, python, web develpment, JS, php (yes, also php)
-- 🌱 I’m currently learning ... IA, python, web development, JS, php (yes, also php). We never stop learning
+- 👀 I’m interested in ... IA, python, Java, web develpment, JS, php (yes, also php)
+- 🌱 I’m currently learning ... IA, python, Java, web development, JS, php (yes, also php). We never stop learning
 - 💞️ I’m looking to collaborate on ... interesting and unusual things.
 - 📫 How to reach me ... Carl0jgr on twitter.
  
