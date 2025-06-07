@@ -1,4 +1,4 @@
-# 👋 Hola, soy [Tu Nombre]
+# 👋 Hola, soy Carlo J. González Rojas
 
 ✏️ Usa este espacio para presentarte brevemente. Habla sobre tu rol actual, tus intereses profesionales, experiencia, logros o metas. Este resumen es la primera impresión para quienes visiten tu perfil.
 
