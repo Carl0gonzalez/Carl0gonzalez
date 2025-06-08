@@ -1,59 +1,80 @@
-# 👋 PROFILE EN CONSTRUCCIÓN 
+# 👋 ¡Hola, soy Carlo J. González Rojas!
 
-Hola, soy Carlo J. González Rojas
+🚧 Perfil en construcción, pero siempre en evolución. Soy un Ingeniero en Telecomunicaciones con más de 10 años de experiencia en IT, automatización, redes y desarrollo de soluciones empresariales.  
+Actualmente trabajo como **Desarrollador Java**, especializado en **iDempiere ERP**, creando procesos, validaciones, integraciones personalizadas y reportes dinámicos con **JasperReports**.  
 
-✏️ Usa este espacio para presentarte brevemente. Habla sobre tu rol actual, tus intereses profesionales, experiencia, logros o metas. Este resumen es la primera impresión para quienes visiten tu perfil.
+Mi perfil combina experiencia técnica en infraestructura (Linux, redes, scripting) con habilidades sólidas en programación y automatización, lo que me permite abordar desafíos desde una visión integral y orientada a resultados.
 
-💡 **Ejemplo:**
-
-Soy un **Desarrollador Full Stack** con experiencia en tecnologías como **React, Node.js y PostgreSQL**. Me apasiona crear aplicaciones web eficientes y escalables, y actualmente estoy en búsqueda de nuevos retos donde seguir aprendiendo y creciendo.
+---
 
 ## 💻 Tecnologías Clave
 
-Agrupa aquí tus herramientas más utilizadas. Puedes mantener todas o eliminar las que no apliquen a tu perfil. También puedes agregar nuevas con el estilo correspondiente. Como recomendación elige los que domines o que estés aprendiendo.
-
 ### 🧑‍💻 Lenguajes de Programación
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🎨 Desarrollo Frontend
+### 🔨 Desarrollo Backend / ERP
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
-
-### 🔨 Desarrollo Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Ktor](https://img.shields.io/badge/Ktor-007EC6?style=for-the-badge&logo=ktor&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![iDempiere](https://img.shields.io/badge/iDempiere-00427A?style=for-the-badge&logo=oracle&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-2E7D32?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🔧 Bases de Datos
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ DevOps y Cloud
+### ☁️ DevOps y Automatización
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 ## 🚀 Proyectos Destacados
 
-✏️ Añade aquí tus proyectos más representativos (de 1 a 3). Incluye una breve descripción y tecnologías clave.
+### 📌 Sistema de Control de Producción (INMAFOR)
 
-💡 **Ejemplo:**
+Plataforma de monitoreo industrial utilizando sensores conectados a **Arduino** y **Raspberry Pi**, con backend en Python y front PHP, enlazado a una base de datos MySQL.  
+Automatiza la adquisición de datos en tiempo real para supervisión y análisis de rendimiento.
 
-### 📌 [TaskFlow - Gestor de tareas](https://github.com/tuusuario/taskflow)
+### 📌 Desarrollo ERP en iDempiere (Casa del Software)
 
-App de gestión de tareas colaborativa en tiempo real.  
-**Tecnologías:** React, Firebase, Tailwind CSS
+- Creación de procesos personalizados, reportes con **JasperReports** y validaciones en entorno **Java + PostgreSQL**.  
+- Automatización de tareas administrativas y generación de informes a medida para clientes corporativos.  
+**Tecnologías:** iDempiere, Java, PostgreSQL, JasperReports, Maven, Git.
 
-### 📌 [API REST de Películas](https://github.com/tuusuario/movies-api)
+---
 
-API REST para explorar y filtrar películas con autenticación JWT.  
-**Tecnologías:** Node.js, Express, MongoDB
+## 📚 Formación
+
+- 🎓 Ingeniero en Telecomunicaciones – UNEFA (2004–2009)
+- 🎓 Técnico en Radiocomunicaciones Aeronáuticas – IUAC (2011)
+- 📘 Curso de Python para Web – Coderhouse (2022)
+- 🛠 CCNA Exploration – Cisco Networking Academy
+
+---
+
+## 🌱 Actualmente aprendiendo...
+
+- CI/CD (GitHub Actions, GitLab CI)
+- Docker avanzado y orquestación con Kubernetes
+- Testing y buenas prácticas en desarrollo Java
+- Optimización de reportes Jasper y manejo avanzado de SQL
+
+---
 
 ## 📫 Contacto
 
-✏️ Agrega tus medios de contacto preferidos. Puedes usar solo texto, íconos o badges.
+- 📧 Correo: [ingcarlogonzalez@gmail.com](mailto:ingcarlogonzalez@gmail.com)
+- 💼 LinkedIn: [[linkedin.com/in/carl0jgr](https://www.linkedin.com/in/carl0jgr/)]
+- 🌐 Portafolio en construcción...
 
-```md
-- 📧 Correo: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portafolio: [tusitio.dev](https://tusitio.dev)
-```
+---
+
+¡Gracias por visitar mi perfil!
